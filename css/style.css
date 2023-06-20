@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(209, 198, 198);
+    padding:0;
+    margin: 0;
+}
+
+
+#main_container{
+    background-color:rgb(255, 255, 255);
+line-height: 120px;
+margin-bottom: 50px
+;
+}
+
+
+
+.white{
+     margin-block-start: 10%;
+     margin-left: 30%;
+}
+
+#button1{
+    color: black;
+    padding:15px 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display:flex;
+    font-weight: bold;
+    align-items: center;
+    font-size: 15px;
+    border-radius: 9px;
+    background-color: blue;
+    
+}
